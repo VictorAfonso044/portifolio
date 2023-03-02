@@ -1,0 +1,5 @@
+{
+  "imports": {
+    "@victor/main": "http://localhost:8081/victor-main.js"
+  }
+}
